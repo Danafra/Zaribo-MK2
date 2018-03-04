@@ -1,0 +1,8 @@
+# of parts needed:
+
+Part name:			Amount:
+X-BeltTensioner-Part1		1
+X-BeltTensioner-Part2		1
+X-idler				1
+X-MotorHolder			1
+X-MotorHolderSupport		1

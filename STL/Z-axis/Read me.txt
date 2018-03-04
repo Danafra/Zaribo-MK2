@@ -1,0 +1,8 @@
+# of parts needed:
+
+Part name:			Amount:
+Z-MotorMount-Left		1
+Z-MotorMount-Right		1
+Z-ScrewCover			2
+Z-TopMount-Left			1
+Z-TopMount-Right		1

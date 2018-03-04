@@ -1,0 +1,9 @@
+# of parts needed:
+
+Part name:			Amount:
+y-BeltHolder MK2		1
+y-BeltTensioner-Part1		1
+y-BeltTensioner-Part2		1
+Y-MotorHolder			1
+Y-MotorHolderSupport		1
+Y-RodHolder-ZipTie		4

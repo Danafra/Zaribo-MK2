@@ -1,0 +1,6 @@
+# of parts needed:
+
+Part name:			Amount:
+RamboBox-Mosfet-Body		1
+RamboBox-Mosfet-Cover		1
+

@@ -1,0 +1,10 @@
+# of parts needed:
+
+Part name:			Amount:
+PSU-Z-Connector			1
+
+PSU-Housing			1
+OR
+PSU-zHolder			1
+OR
+PSU-zHolder-SwitchPlug		1
