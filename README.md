@@ -6,10 +6,6 @@ Zaribo 320 and Zaribo 220 are two options that you can mod your Original Prusa p
 
 Zaribo.org is the web shop for high quality genuine parts you may need for your builds including screws, nuts, rambo boards and even extruder springs. You can also buy full upgrade kits which have everything you need to mod your Original Prusa.
 
-Zaribo.org/blog is the tutorial and file repo in which you can find some articles and pictures.
-
-STL sections are divided in to two. Misumi STL's are modded for Misumi branded T-Nuts which are slightly different in size. STL ones are for regular T-Nuts and thats the only difference so far.
-
 Zaribo.org only sells tested, high quality genuine items. Misumi is the best and most affordable vendor so far for hardware like rods and extrusions. Rock hardened rods are being cut with lathe precision. Aluminum extrusion cutting and drilling are precise and without sawdust.
 
 You can also find the BOM for Zaribo 320 and 220 on Zaribo.org/blog
