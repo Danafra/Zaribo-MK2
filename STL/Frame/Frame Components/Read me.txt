@@ -4,6 +4,6 @@ Part name:			Amount:
 Bracket-L-Left			3
 Bracket-L-Right			3
 Bracket-T			2
-ExtrusionCover-2Legs		3
-ExtrusionCover-3Legs		3
+ExtrusionCover-2Legs		2
+ExtrusionCover-3Legs		4
 ExtrusionSlotCover		4
